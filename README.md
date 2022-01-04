@@ -4,8 +4,8 @@ First repository calc
 hdjshsjd
 dksdsdhsdk
 
-```python
-def main():
-  print('hello')
+```javascript
+var te='helo'
+console.log(te)
 
 ```
