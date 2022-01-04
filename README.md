@@ -4,8 +4,7 @@ First repository calc
 hdjshsjd
 dksdsdhsdk
 
-```javascript
-var te='helo'
-console.log(te)
+```php
+echo "hello"
 
 ```
