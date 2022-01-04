@@ -1,2 +1,11 @@
 # Calcutater
-First repository
+First repository calc 
+## Cuzt
+hdjshsjd
+dksdsdhsdk
+
+```python
+def main():
+  print('hello')
+
+```
